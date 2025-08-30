@@ -116,7 +116,7 @@ impares=0
 negativo=0
 positivos=0
 
-cantidad = 5
+cantidad = 100
 
 for i in range(cantidad):
 
