@@ -1,0 +1,6 @@
+Franco;Sampieri;20015;9
+Renzo;Victoria;20101;8
+Tomas;Martinez;20001;4
+Mauro;Di Pietro;20221;6
+wewe;sdsdd;23333;6.0
+wer;sdf;23444;3.0

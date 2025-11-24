@@ -15,3 +15,5 @@ if clave in agenda:
     print(f"Actividad agendada: {agenda[clave]}")
 else:
     print("No hay actividad en ese día y hora.")
+
+agenda.get((lunes,"100"))
